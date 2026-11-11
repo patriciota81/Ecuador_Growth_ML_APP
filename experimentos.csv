@@ -1,0 +1,9 @@
+run_id,fecha_utc,modelo,n_estimators,max_depth,min_samples_leaf,max_features,random_state,n_splits,test_size,periodo_entrenamiento_fin,n_variables,variables,mae_cv,rmse_cv,std_rmse_cv,ranking,es_mejor
+RUN-003,2026-11-11T00:14:31+00:00,Random Forest,100,7,2,1.0,2026,4,4,2024Q4,4,"precio_petroleo, credito_privado, ventas_internas, recaudacion_iva",0.9608831446608946,1.069363265956883,0.21936965978945835,1,True
+RUN-007,2026-11-11T00:14:31+00:00,Random Forest,200,7,2,1.0,2026,4,4,2024Q4,4,"precio_petroleo, credito_privado, ventas_internas, recaudacion_iva",0.9746129419586487,1.0862175063449477,0.22443278838596048,2,False
+RUN-001,2026-11-11T00:14:31+00:00,Random Forest,100,4,2,1.0,2026,4,4,2024Q4,4,"precio_petroleo, credito_privado, ventas_internas, recaudacion_iva",1.0335559516261572,1.139881317886729,0.2419603794220447,3,False
+RUN-005,2026-11-11T00:14:31+00:00,Random Forest,200,4,2,1.0,2026,4,4,2024Q4,4,"precio_petroleo, credito_privado, ventas_internas, recaudacion_iva",1.0343087106852642,1.1403605044980167,0.2416466055456155,4,False
+RUN-004,2026-11-11T00:14:31+00:00,Random Forest,100,7,4,1.0,2026,4,4,2024Q4,4,"precio_petroleo, credito_privado, ventas_internas, recaudacion_iva",1.0379503954387626,1.1467049565711056,0.2548688665808352,5,False
+RUN-008,2026-11-11T00:14:31+00:00,Random Forest,200,7,4,1.0,2026,4,4,2024Q4,4,"precio_petroleo, credito_privado, ventas_internas, recaudacion_iva",1.0441379213724644,1.1539631848549754,0.2459440423446278,6,False
+RUN-002,2026-11-11T00:14:31+00:00,Random Forest,100,4,4,1.0,2026,4,4,2024Q4,4,"precio_petroleo, credito_privado, ventas_internas, recaudacion_iva",1.0595806501652905,1.1683924184140464,0.25044050160546955,7,False
+RUN-006,2026-11-11T00:14:31+00:00,Random Forest,200,4,4,1.0,2026,4,4,2024Q4,4,"precio_petroleo, credito_privado, ventas_internas, recaudacion_iva",1.0606379147349192,1.171051419873454,0.24519511944259745,8,False
